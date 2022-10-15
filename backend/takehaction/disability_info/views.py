@@ -15,7 +15,9 @@ def profile(request):
 
 
 def info(request):
-    pass
+    users = User.objects.count()
+    context = {"users": users}
+    return render(request, "info.html", context=context)
 
 
 def create_user(request):
