@@ -1,0 +1,8 @@
+**/venv/
+
+**/.config
+**/.cache
+**/__pycache__
+
+# Text backup files
+*.bak
