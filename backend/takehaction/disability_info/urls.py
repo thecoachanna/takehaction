@@ -2,6 +2,12 @@ from django.urls import path, include
 from . import views
 
 urlpatterns = [
-    path('', views.index, name='index'),
-    path('accounts/', include('django.contrib.auth.urls')),
+    # Welcome / landing page
+    path("", views.index, name="index"),
+    # Django built-in login system
+    path("accounts/", include("django.contrib.auth.urls")),
+    # User profile
+    path("profile", views.profile, name="profile"),
+    # General information
+    path("info", views.info, name="info"),
 ]
