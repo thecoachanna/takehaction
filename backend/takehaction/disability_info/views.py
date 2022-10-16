@@ -11,7 +11,9 @@ def index(request):
 
 
 def profile(request):
-    pass
+    users = User.objects.count()
+    context = {"users": users}
+    return render(request, "profile.html", context=context)
 
 
 def info(request):
