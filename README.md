@@ -1,5 +1,8 @@
-# takehaction
-Accessibility app for police interactions
+# Disabili-Buddy
+An assistive tool to help disabled folx safely communicate with law enforcement.
+
+# Languages Used
+Django/Html/Css
 
 Steps to start the Django local server:
 ```
