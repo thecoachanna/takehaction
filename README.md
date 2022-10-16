@@ -2,7 +2,7 @@
 An assistive tool to help disabled folx safely communicate with law enforcement.
 
 # Languages Used
-Django/Html/Css
+Django/Python/Html/Css
 
 Steps to start the Django local server:
 ```
