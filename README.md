@@ -11,8 +11,10 @@ https://docs.google.com/presentation/d/19qEsnrKtzGH1tn0CfDw77lRLN9N0E2tW-b22e072
 https://youtu.be/KUCDTDwoorg
 
 # Wireframes
-https://drive.google.com/file/d/142CepNfNHwJgMmq31wlol86uWbG6dF3U/view?usp=sharing
-https://drive.google.com/file/d/109A4L5fT1kydK_2atkFtS8R2EPzVkvNp/view?usp=sharing
+![Copy of Copy of Untitled](https://user-images.githubusercontent.com/99093454/196053558-4038944a-72e6-4b83-97f2-b02ce43ae9e6.png)
+
+![Untitled](https://user-images.githubusercontent.com/99093454/196053553-1888c8b8-4463-4ccf-baff-65d24ab9ec09.png)
+
 
 Steps to start the Django local server:
 ```
