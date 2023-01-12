@@ -2,7 +2,7 @@
 An assistive tool to help disabled folx safely communicate with law enforcement.
 
 # Languages Used
-Django/Python/Html/Css
+Django | Python | HTML | CSS
 
 # Slide Presentation
 https://docs.google.com/presentation/d/19qEsnrKtzGH1tn0CfDw77lRLN9N0E2tW-b22e072BYw/edit?usp=sharing
